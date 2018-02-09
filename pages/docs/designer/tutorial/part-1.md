@@ -101,6 +101,8 @@ Open the main configuration file
 &mdash; `config.yml` in the project's root directory &mdash;
 , and add `Acme` to the `patternNamespaces`:
 
+The project's root directory is the parent folder of 'patterns'. Most commonly ..freesewing\core\config.yml
+
 ```
 patternNamespaces:
     - Core
